@@ -74,6 +74,7 @@ p{
   height: 10%;
   background-position: center center;
   padding: 5px 0px 8px 0px;
+  background-size:cover;
 }
 
 #first-container .col-lg-6 h1{
