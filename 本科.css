@@ -233,14 +233,14 @@ p{
     align-items: center;     /* Center-align the items */
   }
 
-  .text-content, .bubbles-side {
-    width: 100%;             /* Full width for small screens */
-    padding: 10px;           /* Reduced padding */
+  .content, .bubbles-side {
+    width: 120%;             /* Full width for small screens */
+    padding: 5px;           /* Reduced padding */
     text-align: center;      /* Center text for better readability */
   }
 
   .chat-bubble {
-    width: 80%;              /* Make bubbles slightly narrower */
+    width: 100%;              /* Make bubbles slightly narrower */
     margin: 10px auto;       /* Center-align bubbles */
   }
 
