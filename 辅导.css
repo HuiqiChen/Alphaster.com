@@ -143,7 +143,7 @@ p{
   }
   
   #first-container .download-button {
-    padding: 10px 15px; /* Adequate padding within the button */
+    padding: 10px 15px !important; /* Adequate padding within the button */
     margin: 10px 0 0 3% !important; /* Shift button more to the left */
     font-size: 1.2rem; /* Keep button text readable */
     width: auto; /* Adjust width to fit content */
