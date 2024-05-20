@@ -486,7 +486,7 @@ p{
   #first-container .col-lg-6 h5 {
     padding: 0 15px; /* 在小屏幕上移除左侧填充 */
     text-align: center; /* 居中标题 */
-    font-size:4.2rem;
+    font-size:4.2rem !important;
   }
   
   .download-button, .btn {
