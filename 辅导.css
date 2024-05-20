@@ -139,12 +139,12 @@ p{
   
   #first-container .col-lg-6 h4 {
     font-size: 1.5rem !important;
-    padding-left: 1% !important;
+    padding-left: 0% !important;
   }
   
   #first-container .download-button {
-    padding: 10px 15px !important; /* Adequate padding within the button */
-    margin: 10px 0 0 3% !important; /* Shift button more to the left */
+    padding: 8px 13px !important; /* Adequate padding within the button */
+    margin: 10px 0 0 2% !important; /* Shift button more to the left */
     font-size: 1.2rem; /* Keep button text readable */
     width: auto; /* Adjust width to fit content */
 
