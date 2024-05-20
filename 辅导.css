@@ -444,13 +444,18 @@ p{
 }
 
 /* Small devices (landscape phones, 576px and up) */
-@media (max-width: 576px) {
+@media (max-width: 768px) {
   h1,h5, .navbar-brand, .cta-heading, .pricing-header {
     font-size: 3.75rem; /* Adjust font size for phone screens */
   }
 
-  h2, .nav-link, h3, p, .feature-box h3, .card-header h3, 
+  h2, h3, p, .feature-box h3, .card-header h3{
     font-size: 1rem; /* Adjust font size for phone screens */
+  }
+
+  .nav-link{
+    font-size: 1.6rem;
+    font-weight: bold;
   }
 
   .download-button{
