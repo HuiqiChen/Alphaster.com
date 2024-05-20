@@ -129,10 +129,10 @@ p{
     width: 100%; /* Full width for each section */
   }
   #first-container .col-lg-6 h1{
-    font-size: 2rem !important;
+    font-size: 3rem !important;
   }
   #first-container .col-lg-6 h5 {
-    font-size: 2rem !important;
+    font-size: 3rem !important;
     line-height: 1.5;
     padding-left: 8%;
   }
