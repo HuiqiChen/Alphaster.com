@@ -143,9 +143,9 @@ p{
   }
   
   #first-container .download-button {
-    padding: 10px 20px; /* Adequate padding within the button */
-    margin: 10px 0 0 5% !important; /* Shift button more to the left */
-    font-size: 1.3rem; /* Keep button text readable */
+    padding: 10px 15px; /* Adequate padding within the button */
+    margin: 10px 0 0 3% !important; /* Shift button more to the left */
+    font-size: 1.2rem; /* Keep button text readable */
     width: auto; /* Adjust width to fit content */
 
   }
@@ -449,10 +449,14 @@ p{
     font-size: 3.75rem; /* Adjust font size for phone screens */
   }
 
-  h2, .nav-link, h3, p, .feature-box h3, .card-header h3, .download-button {
+  h2, .nav-link, h3, p, .feature-box h3, .card-header h3, 
     font-size: 1rem; /* Adjust font size for phone screens */
   }
 
+  .download-button{
+     font-size: 1.2rem;
+  }
+  
   .navbar-toggler {
     margin-bottom: 1rem; /* Add space below navbar-toggler */
   }
