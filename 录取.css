@@ -141,10 +141,10 @@ p{
   
   #first-container .col-lg-6 h4 {
     font-size: 1.5rem !important;
-    padding-left: 10px !important;
+    padding-left: 3px !important;
     align-items: center !important;
     padding-bottom: 0;
-    margin-left: 10%;
+    margin-left: 5%;
   }
   
   #first-container .download-button {
